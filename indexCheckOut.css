@@ -1,0 +1,34 @@
+thead {
+    background-color: darkgray;
+}
+.head .foto1 .gambar1 {
+    width: 20px;
+    padding: 10px;
+}
+.foto2 {
+    text-align: right;
+}
+.gambar2 .gambar3 {
+    width: 20px;
+    height: 20px;
+}
+.body .gambar3 {
+    padding: 30px;
+    width: 60px;
+}
+.table1 {
+    background-color: darkgray;
+}
+.harga1 {
+    text-align: right;
+}
+.harga2 {
+    text-align: right;
+}
+.harga3 {
+    text-align: right;
+}
+.foot {
+    background-color: darkgray;
+    color: white;
+}
